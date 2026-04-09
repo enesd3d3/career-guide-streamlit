@@ -69,3 +69,7 @@ streamlit run app.py
 - Expand the system for students from different departments
 - Improve the user interface and visual design
 - Deploy the project online for easier access
+
+- ## Live Demo
+
+[Open the app](https://career-app-luxttrdm99wzcfubkh9pgj.streamlit.app/)
