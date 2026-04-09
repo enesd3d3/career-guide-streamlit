@@ -71,5 +71,5 @@ streamlit run app.py
 - Deploy the project online for easier access
 
 - ## Live Demo
-
+> Note: If the app is asleep due to inactivity, the first load may take a few seconds.
 [Open the app](https://career-app-luxttrdm99wzcfubkh9pgj.streamlit.app/)
